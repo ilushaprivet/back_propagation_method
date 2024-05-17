@@ -1,0 +1,1 @@
+Study of the functioning of a multilayer feedforward neural network and its training using the backpropagation method. The neural network has a 1-2-1 architecture; the weights of the neurons in the hidden and output layers have been adjusted.
